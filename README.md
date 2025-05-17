@@ -21,7 +21,6 @@ This repo is a collection of my learning journey, projects, certifications, and 
 |--------------------|-------------------------------------------------------|
 | **Languages**      | Python (Basics), Bash, PowerShell, HTML, CSS, JavaScript (Basics)  |
 | **OS               | Kali Linux, Windows, MacOS                            |
-| **Certs/Training** |                   |                                                           TYLER
 
 ---
 
@@ -31,7 +30,7 @@ A collection of cybersecurity-related projects and practice:
 
 
 
-## 📜 Certifications                                                                                TYLER
+## 📜 Certifications                                                                               
 
 | Cert Name | Status | Link |
 |-----------|--------|------|
