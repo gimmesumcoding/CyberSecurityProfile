@@ -36,7 +36,24 @@ A collection of cybersecurity-related projects and practice:
 |-----------|--------|------|
 | CompTIA Security+ | ✅ Earned | [Verify](#) |
 | TryHackMe Junior Penetration Tester | ✅ Earned | [Badge](#) |
-| OSCP | 🎯 In Progress | — |
+| Adobe Design Fundamentals |
+| Adobe Generative AI Content Creation |
+| Adobe Social Media Content Strategy |
+| Automating Real World Tasks With Python |
+| Configuration Management and Cloud |
+| Crash Course On Python |
+| CSS Cert |
+| Google AI Essentials |
+| Google IT Support 5 Courses |
+| Google Toubleshooting and Debugging Techniques |
+| Googlle IT Automation with Python |
+| HTML Cert |
+| Intro to Git and GitHub |
+| JavaScript Full Stack Certificate |
+| Technical Support Fundamentals |
+| The Bits And Bytes of Computer Networking |
+| Using Python to Interact with Operating System |
+
 
 ---
 
