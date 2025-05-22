@@ -1,4 +1,4 @@
-#  Chris Ropchan's Cybersecurity Portfolio
+# 🛡️ Chris Ropchan's Cybersecurity Portfolio
 
 Welcome to my cybersecurity portfolio!
 
@@ -6,15 +6,15 @@ This repo is a collection of my learning journey, hands-on projects, certificati
 
 ---
 
-##  About Me
+## 🙋 About Me
 
--  Currently studying: Computer IT Networking  
--  Career goal: Penetration Tester
--  Interests: Digital forensics, OSINT, ethical hacking, red/blue team, and incident response
+- 💻 Currently studying: Computer IT Networking  
+- 🎯 Career goal: Penetration Tester
+- 🧠 Interests: Digital forensics, OSINT, ethical hacking, red/blue team, and incident response
 
 ---
 
-##  Skills & Tools
+## 🛠️ Skills & Tools
 
 | Category           | Tools / Technologies                                  |
 |--------------------|-------------------------------------------------------|
@@ -24,20 +24,20 @@ This repo is a collection of my learning journey, hands-on projects, certificati
 
 ---
 
-##  Assignments
+## 📁 Assignments
 
-###  [Wireshark Investigation](./wire-shark)
+### 🔍 [Wireshark Investigation](./wire-shark)
 Analyze DNS and HTTP traffic involved in a JavaScript-triggered malware redirect attack on a spoofed site.
 
-###  [TCPDump Network Analysis](./tcp-dump)
+### 📡 [TCPDump Network Analysis](./tcp-dump)
 Packet capture and analysis using tcpdump to confirm malware redirection after a brute force attack.
 
-###  [Botium Toys Security Audit](./botium-toys)
+### 🏢 [Botium Toys Security Audit](./botium-toys)
 Audit of an entire company’s security posture using NIST CSF to evaluate asset management, compliance, and risk.
 
 ---
 
-##  Certifications (Selected)
+## 📜 Certifications (Selected)
 
 | Certification                                | Status | Verify |
 |---------------------------------------------|--------|--------|
@@ -50,15 +50,15 @@ Audit of an entire company’s security posture using NIST CSF to evaluate asset
 
 ---
 
-##  Current Projects
+## 📈 Current Projects
 
--  Building a **Python keylogger** (education only)
--  Documenting **TryHackMe rooms** in markdown
--  Automating **log parsing & alerting** with Python + regex
+- 🐍 Building a **Python keylogger** (education only)
+- 📖 Documenting **TryHackMe rooms** in markdown
+- 🔄 Automating **log parsing & alerting** with Python + regex
 
 ---
 
-##  Learning Journal Highlights
+## 🧠 Learning Journal Highlights
 
 - ✅ `2025-05`: Learned Wireshark filtering and protocol dissection
 - ✅ `2025-04`: Completed 15+ TryHackMe rooms
@@ -66,11 +66,13 @@ Audit of an entire company’s security posture using NIST CSF to evaluate asset
 
 ---
 
-##  Connect With Me
+## 📫 Connect With Me
 
--  LinkedIn: 
--  Email: 
--  GitHub Pages: 
+- 💼 LinkedIn: 
+- 📧 Email: 
+- 🌐 GitHub Pages: 
+
+---
 
 ## ⚖️ License
 
