@@ -46,7 +46,7 @@ Audit of an entire company’s security posture using NIST CSF to evaluate asset
 | Automating Real-World Tasks with Python     | ✅     | [View](#) |
 | Intro to Git and GitHub                     | ✅     | [View](#) |
 
-📎 [View Full Certification List →](./CERTIFICATIONS.md)
+📎 [View Full Certification List →](./certifications.md)
 
 ---
 
