@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>{{ page.title }}</title>
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+</head>
+<body>
+  <!-- Navbar -->
+  <header style="background:#2c3e50; padding: 1rem;">
+    <nav style="max-width: 900px; margin: auto; display: flex; justify-content: space-between; align-items: center;">
+      <h2 style="color: white; margin: 0;">Chris Ropchan</h2>
+      <div>
+        <a href="{{ '/' | relative_url }}" style="color: white; margin-right: 15px;">Home</a>
+        <a href="{{ '/certifications' | relative_url }}" style="color: white; margin-right: 15px;">Certifications</a>
+        <a href="https://github.com/usmcchris/CyberSecurityProfile" style="color: white;">GitHub</a>
+      </div>
+    </nav>
+  </header>
+
+  <!-- Main content -->
+  <main style="max-width: 900px; margin: 2rem auto; padding: 0 1rem;">
+    {{ content }}
+  </main>
+
+  <!-- Footer -->
+  <footer style="background:#2c3e50; padding: 1rem; text-align: center; color: white;">
+    <p>© {{ site.time | date: '%Y' }} Chris Ropchan | Built with 💻 GitHub Pages</p>
+  </footer>
+</body>
+</html>
