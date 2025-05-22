@@ -1,93 +1,83 @@
-# CyberSecurityProfile
 # 🛡️ Chris Ropchan's Cybersecurity Portfolio
 
 Welcome to my cybersecurity portfolio!
 
-This repo is a collection of my learning journey, projects, certifications, and documentation — both for myself and to share with the community.
+This repo is a collection of my learning journey, hands-on projects, certifications, and documentation — both for myself and to share with the community.
 
 ---
 
- About Me
+## 🙋 About Me
 
 - 💻 Currently studying: Computer IT Networking  
 - 🎯 Career goal: Penetration Tester
-- 🧠 Interests: Digital forensics, OSINT, ethical hacking, red team/blue team exercises, cybersecurity
+- 🧠 Interests: Digital forensics, OSINT, ethical hacking, red/blue team, and incident response
 
 ---
 
-🛠️ Skills & Tools
+## 🛠️ Skills & Tools
 
 | Category           | Tools / Technologies                                  |
 |--------------------|-------------------------------------------------------|
-| **Languages**      | Python (Basics), Bash, PowerShell, HTML, CSS, JavaScript (Basics)  |
-| **OS               | Kali Linux, Windows, MacOS                            |
+| **Languages**      | Python, Bash, PowerShell, HTML, CSS, JavaScript (Basics) |
+| **Operating Systems** | Kali Linux, Windows, macOS                         |
+| **Tools**          | Wireshark, tcpdump, Postman, Git, VS Code, Scapy, Burp Suite |
 
 ---
 
-## 📁 Repositories
+## 📁 Assignments
 
-A collection of cybersecurity-related projects and practice:
+### 🔍 [Wireshark Investigation](./wire-shark)
+Analyze DNS and HTTP traffic involved in a JavaScript-triggered malware redirect attack on a spoofed site.
 
+### 📡 [TCPDump Network Analysis](./tcp-dump)
+Packet capture and analysis using tcpdump to confirm malware redirection after a brute force attack.
 
+### 🏢 [Botium Toys Security Audit](./botium-toys)
+Audit of an entire company’s security posture using NIST CSF to evaluate asset management, compliance, and risk.
 
-## 📜 Certifications                                                                               
+---
+
+## 📜 Certifications
 
 | Cert Name | Status | Link |
 |-----------|--------|------|
 | CompTIA Security+ | ✅ Earned | [Verify](#) |
 | TryHackMe Junior Penetration Tester | ✅ Earned | [Badge](#) |
-| Adobe Design Fundamentals |
-| Adobe Generative AI Content Creation |
-| Adobe Social Media Content Strategy |
-| Automating Real World Tasks With Python |
-| Configuration Management and Cloud |
-| Crash Course On Python |
-| CSS Cert |
-| Google AI Essentials |
-| Google IT Support 5 Courses |
-| Google Toubleshooting and Debugging Techniques |
-| Googlle IT Automation with Python |
-| HTML Cert |
-| Intro to Git and GitHub |
-| JavaScript Full Stack Certificate |
-| Technical Support Fundamentals |
-| The Bits And Bytes of Computer Networking |
-| Using Python to Interact with Operating System |
-
+| Adobe Design Fundamentals | ✅ | |
+| Crash Course On Python | ✅ | |
+| Google IT Support | ✅ | |
+| Intro to Git and GitHub | ✅ | |
+| JavaScript Full Stack Certificate | ✅ | |
+| ... and many more!
 
 ---
 
 ## 📈 Current Projects
 
-- ✅ Building a **custom Python keylogger** (for education only)
-- ✅ Documenting all **TryHackMe room notes** in markdown
+- 🐍 Building a **Python keylogger** (education only)
+- 📖 Documenting **TryHackMe rooms** in markdown
 - 🔄 Automating **log parsing & alerting** with Python + regex
 
 ---
 
-## 🧠 Learning Journey
-
-Here’s what I’ve been doing recently:
+## 🧠 Learning Journal Highlights
 
 - ✅ `2025-05`: Learned Wireshark filtering and protocol dissection
-- ✅ `2025-04`: Finished 15+ rooms on TryHackMe (Linux, Burp Suite, OWASP)
-- ✅ `2025-03`: Built a packet sniffer in Python using `scapy`
+- ✅ `2025-04`: Completed 15+ TryHackMe rooms
+- ✅ `2025-03`: Built a packet sniffer in Python with `scapy`
 
 ---
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: [<Your LinkedIn>](#)
-- 📧 Email: <your@email.com>
-- 🌐 Personal site: [<your site or GitHub Pages>](#) *(optional)*
+- 💼 LinkedIn: [Your LinkedIn](#)
+- 📧 Email: your@email.com
+- 🌐 GitHub Pages: Coming Soon!
 
 ---
 
 ## ⚖️ License
 
-Content in this repo is licensed under the **MIT License**.  
-Writeups and notes are shared under **Creative Commons Attribution (CC BY 4.0)** unless otherwise stated.
+All work in this repo is licensed under the **MIT License**, and writeups are shared under **Creative Commons Attribution (CC BY 4.0)** unless otherwise noted.
 
-> Always use responsibly and ethically.
-
-
+> ⚠️ All content is for ethical use and educational purposes only.
