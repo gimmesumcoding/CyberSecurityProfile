@@ -1,0 +1,34 @@
+# --------------------
+# OS/System Files
+# --------------------
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# --------------------
+# Editor Files (VS Code, etc.)
+# --------------------
+.vscode/
+*.code-workspace
+
+# --------------------
+# Log and Temp Files
+# --------------------
+*.log
+*.tmp
+*.bak
+*.swp
+
+# --------------------
+# Node / Python / Git Folders
+# --------------------
+node_modules/
+__pycache__/
+.env
+
+# --------------------
+# MS Office / Backup
+# --------------------
+~$*
+*.xlsx~
+*.docx~
