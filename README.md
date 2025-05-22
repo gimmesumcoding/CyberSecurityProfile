@@ -37,18 +37,16 @@ Audit of an entire company’s security posture using NIST CSF to evaluate asset
 
 ---
 
-## 📜 Certifications
+## 📜 Certifications (Selected)
 
-| Cert Name | Status | Link |
-|-----------|--------|------|
-| CompTIA Security+ | ✅ Earned | [Verify](#) |
-| TryHackMe Junior Penetration Tester | ✅ Earned | [Badge](#) |
-| Adobe Design Fundamentals | ✅ | |
-| Crash Course On Python | ✅ | |
-| Google IT Support | ✅ | |
-| Intro to Git and GitHub | ✅ | |
-| JavaScript Full Stack Certificate | ✅ | |
-| ... and many more!
+| Certification                                | Status | Verify |
+|---------------------------------------------|--------|--------|
+| CompTIA Security+                           | ✅     | [View](#) |
+| TryHackMe Junior Penetration Tester         | ✅     | [View](#) |
+| Automating Real-World Tasks with Python     | ✅     | [View](#) |
+| Intro to Git and GitHub                     | ✅     | [View](#) |
+
+📎 [View Full Certification List →](./CERTIFICATIONS.md)
 
 ---
 
