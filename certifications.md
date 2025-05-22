@@ -1,3 +1,8 @@
+---
+layout: default
+title: Certifications
+---
+
 # 📋 Full List of Certifications
 
 This file contains a comprehensive list of all certifications I've earned during my studies in cybersecurity, IT, and related fields.
